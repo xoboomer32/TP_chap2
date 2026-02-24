@@ -17,6 +17,20 @@ for (let j=0; j<=(etudiants.length - 1); j++){
 }
 
 // Exo2
+const admis = etudiants.filter(etudiant => etudiant.moyenne >= 10);
+
+console.log(admis);
+
+const noms = etudiants.map(etudiant => etudiant.nom);
+
+console.log(noms);
+
+const nouvellesMoyennes = etudiants.map(etudiant => ({
+  nom: etudiant.nom,
+  moyenne: etudiant.moyenne + 1
+}));
+
+console.log(nouvellesMoyennes);
 
 // Exo3
     // Fonction flechee
