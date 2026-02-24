@@ -1,4 +1,4 @@
 ### ANDRIAMIHAJAMANANA Anjara 144/LA/25-26
 ### ANDRIAMANGA Faneva 196/LA/25-26
-### Ny Aina Tendrisoa Andrianina 185/LA/25-26
+### NY Aina Tendrisoa Andrianina 185/LA/25-26
 ### RANDRIAMIALISOA Rado Nekena 257/LA/25-26
